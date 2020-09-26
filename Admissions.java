@@ -95,7 +95,7 @@ public class Admissions {
             System.exit(0);
         }
 
-        System.out.print( "Testing \n");
+        // System.out.print( "Testing \n");
 
 
         
